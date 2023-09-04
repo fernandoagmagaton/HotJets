@@ -4,6 +4,7 @@ Onde priorizamos o melhor trabalho e na maior velocidade possível.
 ## Autor
 Fernando Magaton
 
+<hr>
 
 ## Instalação e Demonstração do Projeto
 Essas instruções fornecerão uma cópia do projeto instalado e funcionando em sua máquina local (Windows) para fins de desenvolvimento e testes.
