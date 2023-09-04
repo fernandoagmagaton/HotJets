@@ -1,8 +1,13 @@
 # HotJets
-#### Lava Rápido 
+### Lava Rápido 
 Onde priorizamos o melhor trabalho e na maior velocidade possível.
 ## Autor
-Fernando Magaton
+Fernando Almeida Gameiro Magaton
+
+<hr>
+
+# Java MySQL - Sistema para gestão de serviços
+Desenvolva passo a passo do zero um sistema para gestão de ordem de serviços (Sistema OS) de uma assistência técnica de computadores e periféricos.
 
 <hr>
 
