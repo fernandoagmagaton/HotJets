@@ -16,8 +16,9 @@ Essas instruções fornecerão uma cópia do projeto instalado e funcionando em 
 ##### • XAMPP.
 
 ### Instalação:
-• Inicie o XAMPP;
-!(procedimentos-1.png)
+##### • Inicie o XAMPP;
+!![Após iniciar o XAMPP](https://github.com/fernandoagmagaton/HotJetss/assets/104094324/bbc8cc7e-7ef9-4b2f-8067-6e3f889567c6)
+
 
 • Execute o banco de dados MySQL (localhost) como root sem nenhuma senha definida (senha em branco)
 • Crie um novo banco de dados de nome dbinfox
