@@ -6,18 +6,18 @@ Fernando Magaton
 
 <hr>
 
-## Instalação e Demonstração do Projeto
+# Instalação e Demonstração do Projeto
 Essas instruções fornecerão uma cópia do projeto instalado e funcionando em sua máquina local (Windows) para fins de desenvolvimento e testes.
 
-### Pré requisitos:
+## Pré requisitos:
 É necessário ter instalado no computador:
 ##### • Java JDK 8;
 ##### • Banco de dados MySQL versão 8;
 ##### • XAMPP.
 
-### Instalação:
+## Instalação:
 ##### • Inicie o XAMPP;
-!![Após iniciar o XAMPP](https://github.com/fernandoagmagaton/HotJetss/assets/104094324/bbc8cc7e-7ef9-4b2f-8067-6e3f889567c6)
+![Após iniciar o XAMPP](https://github.com/fernandoagmagaton/HotJetss/assets/104094324/bbc8cc7e-7ef9-4b2f-8067-6e3f889567c6)
 
 
 • Execute o banco de dados MySQL (localhost) como root sem nenhuma senha definida (senha em branco)
