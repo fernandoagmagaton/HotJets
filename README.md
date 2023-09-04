@@ -30,4 +30,6 @@ Essas instruções fornecerão uma cópia do projeto instalado e funcionando em 
 ##### • Depois de clicar na opção "SQL", só colar os comandos que estão no GitHub em "Banco-de-Dados > dbsistema" e colar no local;
 ###### • Após colar é só utilizar a junção de teclas CTRL + ENTER, e assim seu Banco de Dados será criado;
 ##### • Para último passo é só iniciar o projeto e na opção de Login, igual na imagem abaixo, seguir os seguintes procedimentos:
-• Execute a instalação. Na tela de login faça a autenticação com o usuário "admin" usando a senha "admin"
+![Login](https://github.com/fernandoagmagaton/HotJetss/assets/104094324/23944aaf-615f-493f-8be3-ce2320e075b3)
+##### • Execute a instalação. Na tela de login faça a autenticação com o usuário "admin" usando a senha "admin";
+###### Após isso só continuar seu projeto da forma desejada.
