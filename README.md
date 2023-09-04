@@ -10,6 +10,6 @@ Essas instruções fornecerão uma cópia do projeto instalado e funcionando em 
 
 ### Pré requisitos:
 É necessário ter instalado no computador:
-• Java JDK 8
-• Banco de dados MySQL versão 8
-• XAMPP
+• Java JDK 8;
+• Banco de dados MySQL versão 8;
+• XAMPP.
